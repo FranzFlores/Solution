@@ -1,0 +1,33 @@
+body {
+    font-family: 'League Gothic', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.container-file {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.output-title {
+    text-align: center;
+}
+
+#output-content {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: left;
+    background: #454545;
+    color: #fff;
+}
+
